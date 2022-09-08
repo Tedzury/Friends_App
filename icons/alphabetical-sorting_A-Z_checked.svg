@@ -1,0 +1,11 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" enable-background="new 0 0 32 32" version="1.1">
+
+ <g>
+  <title>Layer 1</title>
+  <line id="svg_1" y2="5" x2="23" y1="26.1" x1="23" stroke-miterlimit="10" stroke-width="2" stroke="#ffffff" fill="none"/>
+  <polyline id="svg_2" points="18.7,21.8 23,26.1 27.3,21.8 " stroke-miterlimit="10" stroke-width="2" stroke="#ffffff" fill="none"/>
+  <polyline id="svg_3" points="12,15 12,14 9.1,6 8.9,6 6,14 6,15 " stroke-miterlimit="10" stroke-width="2" stroke="#ffffff" fill="none"/>
+  <line id="svg_4" y2="12" x2="12" y1="12" x1="6" stroke-miterlimit="10" stroke-width="2" stroke="#ffffff" fill="none"/>
+  <polyline id="svg_5" points="5,18 12,18 12,19 6,25 6,26 13,26 " stroke-miterlimit="10" stroke-width="2" stroke="#ffffff" fill="none"/>
+ </g>
+</svg>
